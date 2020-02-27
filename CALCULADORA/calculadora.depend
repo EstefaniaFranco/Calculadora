@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1554498377 source:c:\users\estef\onedrive\documentos\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1554497320 c:\users\estef\onedrive\documentos\calculadora\funciones.h
+
+1554499206 source:c:\users\estef\onedrive\documentos\calculadora\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1554499331 source:c:\users\estef\onedrive\documentos\tp calculadora\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1554497320 c:\users\estef\onedrive\documentos\tp calculadora\funciones.h
+
+1554498377 source:c:\users\estef\onedrive\documentos\tp calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1554499331 source:c:\users\estef\onedrive\documentos\programacion 1\tps y examenes\tp (1)   calculadora\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1582826756 c:\users\estef\onedrive\documentos\programacion 1\tps y examenes\tp (1)   calculadora\funciones.h
+
+1554498377 source:c:\users\estef\onedrive\documentos\programacion 1\tps y examenes\tp (1)   calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
